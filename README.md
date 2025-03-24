@@ -7,7 +7,6 @@ This project was undertaken as part of the course **MKT4220: Big Data Marketing*
 | Student ID | Student Name   | Email                        
 | :----------: | :--------------: | :------------------------------: | 
 | 120040022  | Darren Boesono        | 120040022@link.cuhk.edu.cn     | 
-| 120040023  | Dharma Setiawan            | 120040023@link.cuhk.edu.cn     |
 | 120040002  | Joseph Ariel Christopher Teja          | 120040002@link.cuhk.edu.cn     | 
 
 ## Project Overview
